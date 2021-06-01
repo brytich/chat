@@ -1,1 +1,1 @@
-# chat
+# chat bootstrap , react , socket
